@@ -7,7 +7,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
-# Use postgressql as the database for Active Record
+# Use postgressqls as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
